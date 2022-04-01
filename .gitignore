@@ -3,8 +3,6 @@
 .DS_Store
 __pycache__/
 *.so
-*.fits
-*.fit
 *.SRC
 # Distribution / packaging
 bin/
