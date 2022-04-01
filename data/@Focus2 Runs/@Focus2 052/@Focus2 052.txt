@@ -1,0 +1,25 @@
+m_naf2Samples = 8
+m_naf2Averaging = 3
+m_naf2MoveRange = 400
+m_naf2MinimumAltitude = 45
+m_naf2SubframeSize = 150
+m_daf2CalibrationMagnitude =         4.88
+m_daf2CalibrationExposureTime =         0.35
+m_baf2AutoSlew = 0
+m_baf2AutoExposure = 0
+m_baf2AutoSubframe = 1
+filterIndex = 3
+
+0	510.00000	1.00000	1.06905
+1	567.00000	1.18607	1.16559
+2	623.00000	1.31624	1.21211
+3	681.00000	1.25045	1.20981
+4	739.00000	1.14631	1.15613
+5	796.00000	0.92775	1.05332
+6	852.00000	0.85912	0.90400
+7	910.00000	0.78293	0.69886
+
+
+Err = 0
+Time taken = 1 minutes 5 seconds
+Max at position =       649.40

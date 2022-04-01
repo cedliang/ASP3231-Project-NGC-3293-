@@ -1,0 +1,27 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+numpy = "*"
+scipy = "*"
+requests = "*"
+pandas = "*"
+ccdproc = "*"
+astroid = "*"
+astropy = "*"
+astroquery = "*"
+astropy-healpix = "*"
+photutils = "*"
+pyvo = "*"
+jupyter = "*"
+ipykernel = "*"
+jupyterlab = "*"
+matplotlib = "*"
+jupyterlab-git = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"
