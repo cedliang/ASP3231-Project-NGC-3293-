@@ -20,6 +20,8 @@ ipykernel = "*"
 jupyterlab = "*"
 matplotlib = "*"
 jupyterlab-git = "*"
+ipynb = "*"
+multiprocess = "*"
 
 [dev-packages]
 
