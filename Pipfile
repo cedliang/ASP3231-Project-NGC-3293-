@@ -22,6 +22,7 @@ matplotlib = "*"
 jupyterlab-git = "*"
 ipynb = "*"
 multiprocess = "*"
+pyastronomy = "*"
 
 [dev-packages]
 
